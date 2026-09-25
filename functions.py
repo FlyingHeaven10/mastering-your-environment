@@ -30,4 +30,4 @@ print(f"{total:.2f}")
 
 fahrenheit = float(input("Enter Fahrenheit temperature: "))
 celsius = fahrenheit_to_celsius(fahrenheit)
-print(celsius)
+print(celsius:)
